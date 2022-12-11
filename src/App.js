@@ -46,6 +46,7 @@ const isToday = (time) => {
   const today = new Date().toISOString().substring(0, 10);
   return time.includes(today);
 };
+
 const ersboda = getLocation("Ersboda");
 const stadsliden = getLocation("Stadsliden");
 const angarna = getLocation("Mariehems");

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/skidspar-umea/static/css/main.073c9b0a.css",
+    "main.js": "/skidspar-umea/static/js/main.d397faf8.js",
+    "static/js/787.bef20b6b.chunk.js": "/skidspar-umea/static/js/787.bef20b6b.chunk.js",
+    "static/media/Map.png": "/skidspar-umea/static/media/Map.abec46acf94c155613b0.png",
+    "index.html": "/skidspar-umea/index.html",
+    "main.073c9b0a.css.map": "/skidspar-umea/static/css/main.073c9b0a.css.map",
+    "main.d397faf8.js.map": "/skidspar-umea/static/js/main.d397faf8.js.map",
+    "787.bef20b6b.chunk.js.map": "/skidspar-umea/static/js/787.bef20b6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d397faf8.js"
+  ]
+}
